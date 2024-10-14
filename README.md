@@ -25,12 +25,14 @@ Make sure you have Python installed on your machine.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cnep-banking-app.git
+   git clone https://github.com/djaffergithubit/cnep-banking-app.git
    cd cnep-banking-app
 2. Install required package:
+    ```bash
     pip install -r requirements.txt
 
 3. Run the application:
+    ```bash
     python main.py
 
 ## Usage
